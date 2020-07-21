@@ -1,3 +1,5 @@
+Used EDA, identified 3 questions and predicted prices of Airbnb in Boston.
+
 # Files Contained in Repository
 - Readme.md, which describes this project.
 - Boston_Airbnb.ipynb, which contains my analysis for this project.

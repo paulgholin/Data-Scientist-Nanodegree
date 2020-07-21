@@ -1,3 +1,5 @@
+Manipulated datasets using Spark SQL and used Spark ML to build a model to predict the churn rate of customer.
+
 # Files Contained in Repository
 - Readme.md, which describes this project.
 - Sparkify.ipynb, which contains my processes for this project.
