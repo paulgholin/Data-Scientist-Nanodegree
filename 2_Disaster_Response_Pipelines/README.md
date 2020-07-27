@@ -1,4 +1,4 @@
-Built ETL pipeline to clean data, ML pipeline to train a classifier, and deployed a web that can categorize text messages from a sender using the trained model.
+*Built ETL pipeline to clean data, ML pipeline to train a classifier, and deployed a web that can categorize text messages from a sender using the trained model.*
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.

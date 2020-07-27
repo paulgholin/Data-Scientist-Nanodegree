@@ -1,4 +1,4 @@
-Manipulated datasets using Spark SQL and used Spark ML to build a model to predict the churn rate of customer.
+*Manipulated datasets using Spark SQL and used Spark ML to build a model to predict the churn rate of customer.*
 
 # Files Contained in Repository
 - Readme.md, which describes this project.

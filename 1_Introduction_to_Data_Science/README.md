@@ -1,4 +1,4 @@
-Used EDA, identified 3 questions and predicted prices of Airbnb in Boston.
+*Used EDA, identified 3 questions and predicted prices of Airbnb in Boston.*
 
 # Files Contained in Repository
 - Readme.md, which describes this project.
